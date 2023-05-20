@@ -1,2 +1,2 @@
-# repositorio para cambiar git pull
+# repositorio para cambiar git pull freexodecamp
 practicar comando git
